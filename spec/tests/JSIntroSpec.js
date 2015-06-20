@@ -28,7 +28,7 @@ describe("JSIntro Test Suite", function(){
 
 	});
 
-	describe("JSIntro-SumOfUniqueNumbers", function(){
+	xdescribe("JSIntro-SumOfUniqueNumbers", function(){
 
 		it("sum of 2,3,3,2 is 5", function(){
 
